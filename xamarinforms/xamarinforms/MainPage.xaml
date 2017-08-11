@@ -4,7 +4,7 @@
              xmlns:local="clr-namespace:xamarinforms"
              x:Class="xamarinforms.MainPage">
 
-	<Label Text="HOla!" 
+	<Label Text="sdfsf!" 
            VerticalOptions="Center" 
            HorizontalOptions="Center" />
 
