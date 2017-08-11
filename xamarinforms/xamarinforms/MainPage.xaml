@@ -4,7 +4,7 @@
              xmlns:local="clr-namespace:xamarinforms"
              x:Class="xamarinforms.MainPage">
 
-	<Label Text="sdfsf!" 
+	<Label Text="steph!" 
            VerticalOptions="Center" 
            HorizontalOptions="Center" />
 
